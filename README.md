@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miqueiaspenha
-- 👀 I’m interested in PHP, Laravel, Livewire, SQL and NoSQL
-- 🌱 I’m currently learning Laravel and Livewire
+- 👀 I’m interested in Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pydantic and Docker
+- 🌱 I’m currently learning clean architecture and data science
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me miqueiaspenha@gmail.com
 
